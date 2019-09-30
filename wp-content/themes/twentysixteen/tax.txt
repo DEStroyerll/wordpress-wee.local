@@ -1,0 +1,15 @@
+array (
+  0 => 
+  WP_Term::__set_state(array(
+     'term_id' => 4,
+     'name' => 'Wee Area',
+     'slug' => 'wee-area',
+     'term_group' => 0,
+     'term_taxonomy_id' => 4,
+     'taxonomy' => 'area',
+     'description' => '',
+     'parent' => 0,
+     'count' => 3,
+     'filter' => 'raw',
+  )),
+)
